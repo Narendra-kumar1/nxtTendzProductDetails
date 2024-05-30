@@ -1,0 +1,15 @@
+/* Write your CSS here */
+
+.thumbnail1 {
+  width: 100%;
+}
+
+.product-item1 {
+  padding: 5px;
+  list-style-type: none;
+
+  display: flex;
+  flex-direction: column;
+
+  width: 300px;
+}
